@@ -1,0 +1,133 @@
+body {
+    width: 1024px;
+    padding: 0 auto; 
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 1024px;
+    padding: 10px; 
+    margin: 0 auto;
+    margin-top: 0px;
+    display: flex; 
+    flex-direction: row;
+    background-color: #eaf5f5;
+}
+
+.myInfo {
+    padding: 10px;
+    width: 650px;
+}
+
+.myName {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+
+.position {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+.myContacts {
+    list-style: none;
+}
+
+.myContacts p {
+    font-family: Calibri, sans-serif;
+    font-size: 15px;
+}
+
+.myContacts :last-child p img {
+    border-radius: 20px;
+}
+
+.myContacts img {
+    border-radius: 5px;
+}
+
+.myPhoto {
+    padding: 0px;
+    margin-top: 20px;
+}
+
+.myPhoto img{
+    border-radius: 10px;
+}
+
+main {
+    width: 1024px;
+    padding: 10px;
+}
+
+.about {
+    font-family: Calibri, sans-serif;
+    width: 1024px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.myEducation,
+.mySkills,
+.myInterest,
+.languages,
+.myProjects,
+.myCode {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+}
+
+.myEducation p,
+.mySkills p,
+.myInterest p,
+.languages p,
+.myProjects p,
+.myCode {
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+}
+
+article {
+    width: 1024px;
+    padding: 0px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+
+section {
+    width: 33%;
+}
+
+footer {
+    height: 60px;
+    background-color:  #eaf5f5;
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    padding: 10px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+    width: 1000px;
+    font-family: Calibri, sans-serif;
+}
+
+.logo :first-child img {
+    border-radius: 120px;
+    text-align: right;
+}

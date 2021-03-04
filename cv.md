@@ -1,15 +1,15 @@
 # ANDREI PAVLUKOVICH
 ### **`Objective:`** Junior Front-End Developer
-![logoPhoto](img/CVphoto.jpg)
+![logoPhoto](./img/CVphoto.jpg)
 ### `My contacts`
 ---
-![logoGmail](img/CVgmail.png) _apavlukovich@gmail.com_
+![logoGmail](./img/CVgmail.png) _apavlukovich@gmail.com_
 
-![logoMail.ru](img/CVmail.ru.png) _apavlukovich@mail.ru_
+![logoMail.ru](./img/CVmail.ru.png) _apavlukovich@mail.ru_
 
-![logoGit](img/CVgitHub.png) _andrei2708_
+![logoGit](./img/CVgitHub.png) _andrei2708_
 
-![tel](img/CVtel.png) _+375297984007_
+![tel](./img/CVtel.png) _+375297984007_
 
 ---
 ### `Advantages`

@@ -19,9 +19,9 @@
 * good command of time management
 * able in problem-solving
 * hardworking
+
 ---
 ### `Education`
-
 telecommunications technician
 Higher State College of Communications
 2004-2008

@@ -96,7 +96,7 @@ main {
     font-family: Calibri, sans-serif;
 }
 
-section {
+.information {
     width: 1024px;
     padding: 0px;
     margin: 0 auto;

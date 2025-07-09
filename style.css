@@ -1,4 +1,21 @@
-h1 {
-  color: blue;
-  text-align: center;
+:root {
+  --background-color: #ffda1f;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+
+}
+
+.header {
+  background-color: var(--background-color);
+}
+
+.footer {
+  background-color: var(--background-color);
 }
